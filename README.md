@@ -36,6 +36,30 @@ The RDL-5000 series defines a new way of transforming factories into smart/intel
 
 * Supports for WiFi 2.4GHz.
 
+# Applications :
+
+* Smart home.                           
+
+* Wearables.
+
+* Smart City.
+
+* Smart grids.
+
+* Industrial internet.
+
+* Connected car.
+
+* Environmental monitoring.
+
+* Connected Health.
+
+* Smart retail.
+
+* Smart supply chain.
+
+* Smart farming.
+
 If you have any Quiries, Questions or Concerns, please contact support@researchdesignlab.com
 
 For more details: https://researchdesignlab.com/industry-iot-technology-4-0.html
